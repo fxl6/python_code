@@ -18,3 +18,4 @@ print(f"10 == 10的结果是：{num_1 == num_2}")
 num_1 = 10
 num_2 = 15
 print(f"10 != 15的结果是：{num_1 != num_2}")
+print(111)
